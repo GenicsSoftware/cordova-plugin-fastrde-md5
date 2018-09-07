@@ -5,8 +5,8 @@
 	<description>MD5 Checksum for Files on Android and iOS</description>
 	<license>MIT</license>
 	<keywords>file,md5,checksum,hash</keywords>
-	<repo>https://github.com/fastrde/phonegap-md5.git</repo>
-	<issue>https://github.com/fastrde/phonegap-md5/issues</issue>
+	<repo>https://github.com/umrysh/cordova-plugin-fastrde-md5.git</repo>
+	<issue>https://github.com/umrysh/cordova-plugin-fastrde-md5/issues</issue>
 	<dependency id="cordova-plugin-file" version="3.0.0" />
 	<js-module src="www/md5chksum.js" name="md5chksum">
 		<clobbers target="md5chksum" />
